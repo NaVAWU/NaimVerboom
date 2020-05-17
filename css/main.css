@@ -1,0 +1,142 @@
+.nav ul li a {
+    color: #f8f8f8;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0px 10px;
+    display: block;
+    text-align: center;
+}
+
+.nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0px 10px;
+}
+
+.nav ul li {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+body, html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url("../img/grad.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body {
+    padding: 200px 0px 0px 0px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.head {
+    font-family: 'DM Mono', monospace;
+    margin-bottom: 300px;
+}
+
+.header {
+    font-size: 60px;
+    font-weight: 300;
+    margin: 0px;
+    color: #f8f8f8;
+}
+
+.subheader {
+    font-size: 40px;
+    font-weight: 300;
+    margin: 0px;
+    color: #f8f8f8;
+}
+
+.headtext {
+    margin: 0px;
+    width: 300px;
+    color: #e2e2e2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content .subtitle {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+
+.content .title {
+    font-family: 'DM Mono', monospace;
+    margin: 0px;
+}
+
+.showoff {
+    display: flex;
+    flex-direction: row;
+    padding: 40px 0px;
+}
+
+.show-article {
+    width: 300px;
+    text-align: center;
+}
+
+.show-article:last-child {
+    padding-left: 200px;
+}
+
+.showoff .show-title {
+    font-family: 'DM Mono', monospace;
+    margin: 0px;
+    font-weight: 300;
+}
+
+.showoff .show-img {
+    width: 280px;
+    margin: 30px 0px 15px 0px;
+    border: 1px solid #df13bd;
+    border-radius: 10px;
+}
+
+.showoff .show-descr {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    font-weight: 300;
+}
+
+.showoff a {
+    color: black;
+}
+
+.footer {
+    margin: 0 auto;
+    text-align: center;
+    padding: 60px 0px 30px 0px;
+}
+
+.footer a {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    font-weight: 300;
+}
+
+.contact {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.footer .madeby {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    font-weight: 500;
+}
+
+.contactlist {
+    display: flex;
+    flex-direction: column;
+}
