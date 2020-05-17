@@ -22,6 +22,7 @@
 			<h1 class="header">Naim Verboom</h1>
 			<h2 class="subheader">Creating My Mind</h2>
 			<p class=headtext>Making programs and websites for myself and others.</p>
+			<a href="https://github.com/AWrongUsername" class="githublink">Straight to Github!</a>
 		</div>
 
 		<div class="content">
@@ -47,6 +48,7 @@
 				<p class="contact">Contact:</p>
 				<div class="contactlist">
 					<a href="mailto:naimverboom@gmail.com">naimverboom@gmail.com</a>
+					<a href="https://github.com/AWrongUsername">Github</a>
 					<a>Discord: AWrongUsername#9129</a>
 				</div>
 			</div>
