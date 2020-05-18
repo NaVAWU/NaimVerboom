@@ -18,11 +18,16 @@
 	</div>
 
 	<div class="body">
-		<div class="head">
-			<h1 class="header">Naim Verboom</h1>
-			<h2 class="subheader">Creating My Mind</h2>
-			<p class=headtext>Making programs and websites for myself and others.</p>
-			<a href="https://github.com/AWrongUsername" class="githublink">Straight to Github!</a>
+		<div class="headcontain">
+			<div class="head">
+				<h1 class="header">Naim Verboom</h1>
+				<h2 class="subheader">Creating My Mind</h2>
+				<p class=headtext>Making programs and websites for myself and others.</p>
+				<a href="https://github.com/AWrongUsername" class="githublink">Straight to Github!</a>
+			</div>
+			<div class="img">
+				<img src="../img/dude.png" alt="Person next to website">
+			</div>
 		</div>
 
 		<div class="content">

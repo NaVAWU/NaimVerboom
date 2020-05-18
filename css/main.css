@@ -40,7 +40,7 @@ body {
 
 .head {
     font-family: 'DM Mono', monospace;
-    margin-bottom: 300px;
+    width: 30%;
 }
 
 .header {
@@ -149,4 +149,20 @@ body {
     font-weight: 500;
     padding: 6px;
     text-decoration: none;
+}
+
+.headcontain {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    margin-bottom: 300px;
+}
+
+.img img {
+    width: 400px;
+}
+
+.img {
+    width: 30%;
 }
